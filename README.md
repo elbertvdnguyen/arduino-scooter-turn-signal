@@ -1,4 +1,4 @@
-# Arduino scooter turn signal
+# Arduino Scooter Turn Signal
 Whether you're riding a Razor or electric scooter, it is difficult to communicate turn signals to others on the road. And even when you do, people simply do not acknowledge you!
 
 I have created a simple turn signal that allows you to communicate with those around you about your intention to make a turn.
@@ -14,11 +14,13 @@ To bring this project to fruition, I used the following hardware parts:
 
 On the software side, I implemented the LedControl library to output the appropriate values to the LED matrix.
 
+## Design
+
 ## Functionality
-To initiate the turn signal indicator, the joystick must either be pushed up (right turn) or down (left turn). Once indicated, the front-mounted LED matrix flashes an arrow reflecting the turn the rider wishes to make. This occurs for approximately 6-8 seconds before the matrix shuts off again.
+To initiate the turn signal indicator, the joystick must either be pushed up (right turn) or down (left turn). Once indicated, the front-mounted LED matrix flashes an arrow reflecting the turn the rider wishes to make. This occurs for approximately 6-8 seconds before the matrix shuts off automatically.
 
 ## Demo video
-Here is the [link](https://youtu.be/qDhFgfHtOVE) to a video demonstrating the functionality of the turn signal.
+Here is the [link](https://youtu.be/qDhFgfHtOVE) demonstrating the functionality of the turn signal.
 
 ## Notes
 This project was created for a class assignment.
