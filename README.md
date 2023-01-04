@@ -12,7 +12,7 @@ To bring this project to fruition, I used the following hardware parts:
 - 1x MAX7219 8x8 LED Dot Matrix
 - 1x KY-023 joystick
 
-On the software side, I implemented the LedControl library to output the appropriate values to the LED matrix.
+On the software side, I implemented the [LedControl](https://github.com/wayoda/LedControl) library to output the appropriate values to the LED matrix.
 
 ## Design
 
