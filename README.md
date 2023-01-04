@@ -25,7 +25,7 @@ To initiate the turn signal indicator, the joystick must either be pushed up (ri
 Here is the [link](https://youtu.be/qDhFgfHtOVE) demonstrating the functionality of the turn signal.
 
 ## Notes
-This project was created for a class assignment.
+This project was created for a class assignment in the Spring of 2022. Uploaded to GitHub for personal recordkeeping.
 
 Course Information: 
 - CS122A - Intermediate Embedded and Real-Time Systems
