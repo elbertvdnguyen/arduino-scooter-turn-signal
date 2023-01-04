@@ -14,10 +14,12 @@ To bring this project to fruition, I used the following hardware parts:
 
 On the software side, I implemented the [LedControl](https://github.com/wayoda/LedControl) library to output the appropriate values to the LED matrix.
 
-## Design
-
 ## Functionality
 To initiate the turn signal indicator, the joystick must either be pushed up (right turn) or down (left turn). Once indicated, the front-mounted LED matrix flashes an arrow reflecting the turn the rider wishes to make. This occurs for approximately 6-8 seconds before the matrix shuts off automatically.
+
+<img src="assets/videos/left-turn.gif" alt="Left turn signal" width="200" height="356">
+
+<img src="assets/videos/right-turn.gif" alt="Right turn signal" width="200" height="356">
 
 ## Demo video
 Here is the [link](https://youtu.be/qDhFgfHtOVE) demonstrating the functionality of the turn signal.
